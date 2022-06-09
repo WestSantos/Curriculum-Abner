@@ -9,7 +9,7 @@
 <div style="display: inline-block"><br>
   <img align="center" alt="abner-jupter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <!--   <img align="center" alt="abner-jupter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> -->
-  <img align="center" alt="abner-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="abner-mysql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="abner-python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="abner-vscode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="abner-sql" height="60" width="60" src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-sql-file-types-dreamstale-lineal-dreamstale.png"/>
