@@ -4,19 +4,17 @@
 - 2º semestre em tecnologo de Banco de Dados pela universidade Estácio de Sá
 - Estudando SQL, Python com foco para Data Analistic
 
-##
+#
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="abner-jupter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="abner-jupter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <!--   <img align="center" alt="abner-jupter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> -->
-  <img align="center" alt="abner-jupter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="abner-jupter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="abner-jupter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="abner-jupter" height="60" width="60" src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-sql-file-types-dreamstale-lineal-dreamstale.png"/>
-</div>
+  <img align="center" alt="abner-MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="abner-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="abner-VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="abner-SQL" height="40" width="40" src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-sql-file-types-dreamstale-lineal-dreamstale.png"/></div>
 
-
-##
+#
 
 
 <div>
